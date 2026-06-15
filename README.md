@@ -71,9 +71,8 @@ I am a Physics graduate with a strong passion for software development, scientif
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: https://github.com/your-username  
+- 📧 Email: arminasemani@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/armin-asemani-1751a9216
 
 ---
 
